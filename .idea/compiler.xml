@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="miao-learning-content-service" />
+        <module name="miao-learning-content-model" />
+        <module name="miao-learning-content-api" />
+        <module name="miao-learning-base" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="miao-learning-base" target="1.8" />
+      <module name="miao-learning-content" target="1.8" />
+      <module name="miao-learning-content-api" target="1.8" />
+      <module name="miao-learning-content-model" target="1.8" />
+      <module name="miao-learning-content-service" target="1.8" />
+      <module name="miao-learning-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="miao-learning-base" options="" />
+      <module name="miao-learning-content-api" options="" />
+      <module name="miao-learning-content-service" options="" />
+      <module name="miao-learning-parent" options="" />
+    </option>
+  </component>
+</project>
