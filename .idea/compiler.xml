@@ -6,7 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Annotation profile for miao-learning-content" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../environment/apache/apache-maven-3.6.3/repo/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar" />
+        </processorPath>
         <module name="miao-learning-content-service" />
+        <module name="miao-learning-generator" />
         <module name="miao-learning-content-model" />
         <module name="miao-learning-content-api" />
         <module name="miao-learning-base" />
@@ -18,6 +27,7 @@
       <module name="miao-learning-content-api" target="1.8" />
       <module name="miao-learning-content-model" target="1.8" />
       <module name="miao-learning-content-service" target="1.8" />
+      <module name="miao-learning-generator" target="1.8" />
       <module name="miao-learning-parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>

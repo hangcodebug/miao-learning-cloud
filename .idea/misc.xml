@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/miao-learning-base/pom.xml" />
         <option value="$PROJECT_DIR$/miao-learning-content-api/pom.xml" />
         <option value="$PROJECT_DIR$/miao-learning-content/pom.xml" />
+        <option value="$PROJECT_DIR$/miao-learning-generator/pom.xml" />
       </list>
     </option>
   </component>

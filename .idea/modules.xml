@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/miao-learning-content/miao-learning-content-api/miao-learning-content-api.iml" filepath="$PROJECT_DIR$/miao-learning-content/miao-learning-content-api/miao-learning-content-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/miao-learning-content/miao-learning-content-model/miao-learning-content-model.iml" filepath="$PROJECT_DIR$/miao-learning-content/miao-learning-content-model/miao-learning-content-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/miao-learning-content/miao-learning-content-service/miao-learning-content-service.iml" filepath="$PROJECT_DIR$/miao-learning-content/miao-learning-content-service/miao-learning-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miao-learning-generator/miao-learning-generator.iml" filepath="$PROJECT_DIR$/miao-learning-generator/miao-learning-generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/miao-learning-parent/miao-learning-parent.iml" filepath="$PROJECT_DIR$/miao-learning-parent/miao-learning-parent.iml" />
     </modules>
   </component>
