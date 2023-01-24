@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/miao-cloud.iml" filepath="$PROJECT_DIR$/miao-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miao-learning-base/miao-learning-base.iml" filepath="$PROJECT_DIR$/miao-learning-base/miao-learning-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miao-learning-content/miao-learning-content.iml" filepath="$PROJECT_DIR$/miao-learning-content/miao-learning-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miao-learning-content/miao-learning-content-api/miao-learning-content-api.iml" filepath="$PROJECT_DIR$/miao-learning-content/miao-learning-content-api/miao-learning-content-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miao-learning-content/miao-learning-content-model/miao-learning-content-model.iml" filepath="$PROJECT_DIR$/miao-learning-content/miao-learning-content-model/miao-learning-content-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miao-learning-content/miao-learning-content-service/miao-learning-content-service.iml" filepath="$PROJECT_DIR$/miao-learning-content/miao-learning-content-service/miao-learning-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miao-learning-generator/miao-learning-generator.iml" filepath="$PROJECT_DIR$/miao-learning-generator/miao-learning-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miao-learning-parent/miao-learning-parent.iml" filepath="$PROJECT_DIR$/miao-learning-parent/miao-learning-parent.iml" />
+    </modules>
+  </component>
+</project>
